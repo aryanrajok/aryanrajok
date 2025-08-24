@@ -1,3 +1,4 @@
+[![MasterHead](https://cutshort.io/_next/image?url=https%3A%2F%2Fcutshort.io%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fbd1e5c2457278a37313c55ce8c887aa3.jpg&w=3840&q=75)](https://github.com/aryanrajok)
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">🚀 Passionate about building scalable web apps | Tech Explorer</h3>
 
